@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatinnahar15
-- 👀 I’m interested in ...C#.Net, Asp.Net core, Azure etc.
+- 👀 I’m interested in ...C#.Net, Asp.Net core, Azure, Generative AI etc.
 - 🌱 I’m currently learning ...Azure
 - 💞️ I’m looking to collaborate on .....Net Design & architecture. 
 - 📫 How to reach me ...jatinnahar15@gmail.com
